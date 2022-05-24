@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qwer/static/css/main.3330fda2.css",
+    "main.js": "/qwer/static/js/main.3cfa765d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/qwer/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/qwer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/qwer/index.html",
+    "main.3330fda2.css.map": "/qwer/static/css/main.3330fda2.css.map",
+    "main.3cfa765d.js.map": "/qwer/static/js/main.3cfa765d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/qwer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3330fda2.css",
+    "static/js/main.3cfa765d.js"
+  ]
+}
